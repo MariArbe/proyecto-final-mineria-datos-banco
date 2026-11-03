@@ -1,0 +1,13 @@
+# Configuración local del editor
+.claude/
+
+# Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Carpetas que generan los notebooks al ejecutarse (los archivos que se entregan están en la raíz)
+entregables_preparacion_bank_marketing/
+entregables_modelado_bank/
+
+# Archivos temporales de Word
+~$*
